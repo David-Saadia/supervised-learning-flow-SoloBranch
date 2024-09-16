@@ -70,12 +70,12 @@
 
 The project is about testing and working with different learning algorithms and performs a 5 fold validation which will choose the best permutation for each learning algorithm.
 
-<img src = "./images/Screenshot_5.png">
-<img src = "./images/Screenshot_6.png">
-<img src = "./images/Screenshot_7.png">
-<img src = "./images/Screenshot_8.png">
-<img src = "./images/Screenshot_9.png">
-<img src = "./images/Screenshot_10.png">
+<img src = "./images/Screenshot5.png">
+<img src = "./images/Screenshot6.png">
+<img src = "./images/Screenshot7.png">
+<img src = "./images/Screenshot8.png">
+<img src = "./images/Screenshot9.png">
+<img src = "./images/Screenshot10.png">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
