@@ -1,3 +1,8 @@
+# IMPORTANT NOTE BEFORE YOU READ 
+The main branch is the original final product of the assignment me and my classmates have commited in our class.
+If you want to see the version I worked on myself after we finished the assignment, go to the branch 'DavidSoloBranch'.
+
+
 # supervised-learning-flow
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
